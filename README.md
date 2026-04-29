@@ -259,7 +259,7 @@ Future directions include:
 ## Author
 
 ### Jonathan Wisdom
-Medical Student
+
 Niger Delta University, Nigeria
 
 ### Research Interests
